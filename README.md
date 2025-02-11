@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka.</h3>
 <h5 align="center">|| Undergraduate at SLIIT ||</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21062438&label=Profile%20views&color=0e75b6&style=flat" alt="it21062438" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harendrasamarawickrama&label=Profile%20views&color=0e75b6&style=flat" alt="it" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/IT21062438](https://github.com/IT21062438)
+- 👨‍💻 All of my projects are available at [https://github.com/Harendrasamarawickrama)
 
 - 📫 How to reach me **samarawickramaharendra@gmail.com**
 
